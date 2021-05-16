@@ -1,0 +1,10 @@
+C:\Users\lenovo\source\repos\KM1\KM1\bin\Debug\KM1.exe.config
+C:\Users\lenovo\source\repos\KM1\KM1\bin\Debug\KM1.exe
+C:\Users\lenovo\source\repos\KM1\KM1\bin\Debug\KM1.pdb
+C:\Users\lenovo\source\repos\KM1\KM1\obj\Debug\KM1.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\KM1\KM1\obj\Debug\KM1.Databaze.resources
+C:\Users\lenovo\source\repos\KM1\KM1\obj\Debug\KM1.Properties.Resources.resources
+C:\Users\lenovo\source\repos\KM1\KM1\obj\Debug\KM1.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\KM1\KM1\obj\Debug\KM1.exe
+C:\Users\lenovo\source\repos\KM1\KM1\obj\Debug\KM1.pdb
+C:\Users\lenovo\source\repos\KM1\KM1\obj\Debug\KM1.csproj.CoreCompileInputs.cache
